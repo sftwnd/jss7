@@ -36,9 +36,7 @@
 
 	<modules>
 		<module>commons</module>
-<!--
-		<module>releasenotes</module>
--->
+        <!-- <module>releasenotes</module> -->
 		<module>installationguide</module>
 		<module>userguide</module>
 	</modules>

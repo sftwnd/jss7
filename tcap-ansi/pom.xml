@@ -50,13 +50,4 @@
 		</plugins>
 	</build>
 
-	<profiles>
-		<profile>
-			<id>release</id>
-			<modules>
-				<module>release</module>
-			</modules>
-		</profile>
-	</profiles>
-
 </project>

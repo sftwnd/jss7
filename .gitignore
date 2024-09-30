@@ -193,3 +193,5 @@ docs/sources-*/src
 /TransitTestStack3_sccpresource2.xml
 /TransitTestStack3_sccprouter2.xml
 **/.checkstyle
+
+*/release/**
